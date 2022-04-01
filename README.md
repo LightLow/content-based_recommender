@@ -15,4 +15,4 @@ The training process involves 6 steps:
 - Test other algorithm such as Spacy (pre-trained word vectors) and KNN (K-Nearest Neighbors) for comparation.
 
 
-![alt text] (C:\Users\lowka\Desktop\Hirely Interview\model-flow.png)
+![alt text] (https://github.com/LightLow/content-based_recommender/blob/main/model-flow.png)
