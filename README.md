@@ -14,5 +14,7 @@ The training process involves 6 steps:
 - Find the Cosine Similarity score between job text and candidate text
 - Test other algorithm such as Spacy (pre-trained word vectors) and KNN (K-Nearest Neighbors) for comparation.
 
+# Logic behind the model
 
+The logic behind the model is to prepared the job dataset and candidate dataset (Data cleansing, feature engineering transfrom), collect the features from both side, using similarity function to connect and recommend the top-N selection.
 ![alt text](https://github.com/LightLow/content-based_recommender/blob/main/model-flow.png?raw=true)
