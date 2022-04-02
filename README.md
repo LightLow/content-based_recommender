@@ -2,7 +2,7 @@
 
 This is a simple content-based recommender implement in python 3.0 to illustrate content-based recommemder on candidates matching with jobs.
 
-The expected model is to input a / list of candidate namelist and output of recommend job positions.
+The expected model is to input a candidate name and output a list of recommend job positions.
 
 ![alt text](https://miro.medium.com/max/1400/1*P63ZaFHlssabl34XbJgong.jpeg)
 
